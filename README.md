@@ -55,9 +55,9 @@ My goal is to do what I love, start my own tech company in the future, and show 
 
 ## 📊 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=georgevargas05&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/georgevargas05)  
-[![](https://github-readme-streak-stats.herokuapp.com/?user=georgevargas05&theme=material-palenight)](https://github.com/georgevargas05)  
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=georgevargas05&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/georgevargas05)
+[![](https://github-readme-stats.vercel.app/api?username=DavidCodec&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/georgevargas05)  
+[![](https://github-readme-streak-stats.herokuapp.com/?user=DavidCodec&theme=material-palenight)](https://github.com/georgevargas05)  
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCodec&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/georgevargas05)
 
 ---
 
