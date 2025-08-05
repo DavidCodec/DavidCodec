@@ -2,7 +2,7 @@
 
 <img align="right" width=300px alt="Coding GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21lNTl2Ym11MGJwdDY0ZnJpNXF0dnpmcWxzcnd1MG9rZTJycnRpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+***About me***
 
 I’m currently studying English at an academy and working as a frontend developer at **Solware Agency** in Venezuela. I'm learning TypeScript and databases while building real-world projects.  
 My goal is to do what I love, start my own tech company in the future, and show the world the amazing ideas I have.  
