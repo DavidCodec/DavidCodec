@@ -11,7 +11,7 @@ My goal is to do what I love, start my own tech company in the future, and show 
   - Databases (SQL & NoSQL)
 - 🧠 Passionate about building creative and functional projects
 - 🏆 I’d love to collaborate on cool frontend projects
-- 🎮 When I’m not coding, I’m listening to music or playing football
+- 🎮 When I’m not coding, I’m listening to music or playing soccer
 - 🔗 Check out my portfolio: [https://portafolio-web-ashy-five.vercel.app/](https://portafolio-web-ashy-five.vercel.app/)
 - 📫 Reach me at: [georgevargas868@gmail.com](mailto:georgevargas868@gmail.com)
 
