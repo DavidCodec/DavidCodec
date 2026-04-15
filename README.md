@@ -47,7 +47,7 @@ My goal is to do what I love, start my own tech company in the future, and show 
 <a href="https://www.instagram.com/george05vv" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/george-vargas-572615321/" target="_blank">
+<a href="https://www.linkedin.com/in/george05v/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
